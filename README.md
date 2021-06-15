@@ -36,3 +36,5 @@ This project was made by using Java and MySql technologies. In the project, it i
 ### Accounting Screen
 
 ![4](accounting.png)
+
+Developed by the Computer Society Desktop Programming Team.
